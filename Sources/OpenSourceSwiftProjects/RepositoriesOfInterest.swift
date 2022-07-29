@@ -99,9 +99,9 @@ public enum RepositoriesOfInterest {
         "https://github.com/stephencelis/SQLite.swift",
         "https://github.com/nicklockwood/Euclid",
         "https://github.com/sindresorhus/Preferences",
-        "https://swiftpackageindex.com/johnno1962/HotReloading",
-        "https://swiftpackageindex.com/vapor/leaf",
-        "https://swiftpackageindex.com/AvdLee/appstoreconnect-swift-sdk",
+        "https://github.com/johnno1962/HotReloading",
+        "https://github.com/vapor/leaf",
+        "https://github.com/AvdLee/appstoreconnect-swift-sdk",
     ]
 }
 
