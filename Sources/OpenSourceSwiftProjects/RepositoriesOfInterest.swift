@@ -102,6 +102,11 @@ public enum RepositoriesOfInterest {
         "https://github.com/johnno1962/HotReloading",
         "https://github.com/vapor/leaf",
         "https://github.com/AvdLee/appstoreconnect-swift-sdk",
+        "https://github.com/RevenueCat/purchases-ios",
+        "https://github.com/apple/swift-collections",
+        "https://github.com/kean/Get",
+        "https://github.com/kean/Nuke",
+        "https://github.com/kean/Pulse",
     ]
 }
 
