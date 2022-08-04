@@ -107,6 +107,7 @@ public enum RepositoriesOfInterest {
         "https://github.com/kean/Get",
         "https://github.com/kean/Nuke",
         "https://github.com/kean/Pulse",
+        "https://github.com/mergesort/Boutique",
     ]
 }
 
