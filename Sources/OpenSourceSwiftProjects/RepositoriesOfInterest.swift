@@ -112,6 +112,10 @@ public enum RepositoriesOfInterest {
         "https://github.com/danielsaidi/TagKit",
         "https://github.com/realm/SwiftLint",
         "https://github.com/unsignedapps/swift-create-xcframework",
+        "https://github.com/pointfreeco/swift-composable-architecture",
+        "https://github.com/pointfreeco/swift-snapshot-testing",
+        "https://github.com/pointfreeco/swift-parsing",
+        "https://github.com/pointfreeco/swift-tagged",
     ]
 }
 
