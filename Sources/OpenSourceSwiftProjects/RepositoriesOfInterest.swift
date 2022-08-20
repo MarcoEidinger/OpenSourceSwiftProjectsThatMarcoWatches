@@ -93,7 +93,7 @@ public enum RepositoriesOfInterest {
         "https://github.com/realm/realm-swift",
         "https://github.com/jpsim/SourceKitten",
         "https://github.com/tuist/xcbeautify",
-        "https://github.com/krzyzanowskim/CryptoSwift",
+        "https://github.com/krzyzanowskim/CryptoSwift
         "https://github.com/facebook/facebook-ios-sdk",
         "https://github.com/firebase/firebase-ios-sdk",
         "https://github.com/stephencelis/SQLite.swift",
@@ -108,6 +108,10 @@ public enum RepositoriesOfInterest {
         "https://github.com/kean/Nuke",
         "https://github.com/kean/Pulse",
         "https://github.com/mergesort/Boutique",
+        "https://github.com/Lighter-swift/Lighter",
+        "https://github.com/danielsaidi/TagKit",
+        "https://github.com/realm/SwiftLint",
+        "https://github.com/unsignedapps/swift-create-xcframework",
     ]
 }
 
