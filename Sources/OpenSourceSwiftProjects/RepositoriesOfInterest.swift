@@ -116,6 +116,11 @@ public enum RepositoriesOfInterest {
         "https://github.com/pointfreeco/swift-snapshot-testing",
         "https://github.com/pointfreeco/swift-parsing",
         "https://github.com/pointfreeco/swift-tagged",
+        "https://github.com/swift-server-community/APNSwift",
+        "https://github.com/JohnSundell/Publish",
+        "https://github.com/datatheorem/TrustKit",
+        "https://github.com/danielsaidi/StoreKitPlus",
+        "https://github.com/KeyboardKit/KeyboardKit",
     ]
 }
 
