@@ -121,6 +121,11 @@ public enum RepositoriesOfInterest {
         "https://github.com/datatheorem/TrustKit",
         "https://github.com/danielsaidi/StoreKitPlus",
         "https://github.com/KeyboardKit/KeyboardKit",
+        "https://github.com/mikaelacaron/brain-mark",
+        "https://github.com/adamrushy/social-swiftui-app",
+        "https://github.com/aheze/OpenFind",
+        "https://github.com/nextcloud/ios",
+        "https://github.com/elai950/AlertToast",
     ]
 }
 
