@@ -131,7 +131,6 @@ public enum RepositoriesOfInterest {
         "https://github.com/AvdLee/SwiftUIKitView",
         "https://github.com/CodeEditApp/CodeEdit",
         "https://github.com/groue/GRDB.swift",
-        "https://github.com/aws-amplify/amplify-swift",
         "https://github.com/kodecocodes/swift-algorithm-club",
         "https://github.com/nicklockwood/SwiftFormat",
         "https://github.com/Dimillian/IceCubesApp"
