@@ -126,6 +126,15 @@ public enum RepositoriesOfInterest {
         "https://github.com/aheze/OpenFind",
         "https://github.com/nextcloud/ios",
         "https://github.com/elai950/AlertToast",
+        "https://github.com/mattia/swift-secrecy",
+        "https://github.com/agens-no/EllipticCurveKeyPair",
+        "https://github.com/AvdLee/SwiftUIKitView",
+        "https://github.com/CodeEditApp/CodeEdit",
+        "https://github.com/groue/GRDB.swift",
+        "https://github.com/aws-amplify/amplify-swift",
+        "https://github.com/kodecocodes/swift-algorithm-club",
+        "https://github.com/nicklockwood/SwiftFormat",
+        "https://github.com/Dimillian/IceCubesApp"
     ]
 }
 
