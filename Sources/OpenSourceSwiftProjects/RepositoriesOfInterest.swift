@@ -11,7 +11,7 @@ public enum RepositoriesOfInterest {
     /// returns a set of strings with GitHub repository full names, e.g. Alamofire/Alamofire
     public static let fullNames: Set<String> = Set(list.map { $0.deletingPrefix("https://github.com/") })
 
-    private static let list: [String] = [
+    internal static let list: [String] = [
         "https://github.com/kean/Get",
         "https://github.com/sindresorhus/Defaults",
         "https://github.com/rwbutler/Connectivity",
@@ -89,23 +89,17 @@ public enum RepositoriesOfInterest {
         "https://github.com/stencilproject/Stencil",
         "https://github.com/apple/swift-protobuf",
         "https://github.com/danielsaidi/SwiftUIKit",
-        "https://github.com/cossacklabs/themis",
         "https://github.com/realm/realm-swift",
         "https://github.com/jpsim/SourceKitten",
         "https://github.com/tuist/xcbeautify",
         "https://github.com/krzyzanowskim/CryptoSwift",
-        "https://github.com/facebook/facebook-ios-sdk",
         "https://github.com/firebase/firebase-ios-sdk",
-        "https://github.com/stephencelis/SQLite.swift",
         "https://github.com/nicklockwood/Euclid",
         "https://github.com/sindresorhus/Preferences",
         "https://github.com/johnno1962/HotReloading",
         "https://github.com/vapor/leaf",
         "https://github.com/AvdLee/appstoreconnect-swift-sdk",
-        "https://github.com/RevenueCat/purchases-ios",
         "https://github.com/apple/swift-collections",
-        "https://github.com/kean/Get",
-        "https://github.com/kean/Nuke",
         "https://github.com/kean/Pulse",
         "https://github.com/mergesort/Boutique",
         "https://github.com/Lighter-swift/Lighter",
