@@ -164,7 +164,9 @@ public enum RepositoriesOfInterest {
         "https://github.com/groue/GRMustache.swift",
         "https://github.com/tbaranes/SwiftyUtils",
         "https://github.com/shaps80/SwiftUIBackports",
-        "https://github.com/matteopuc/swiftui-navigation-stack"
+        "https://github.com/matteopuc/swiftui-navigation-stack",
+        "https://github.com/buresdv/Cork",
+        "https://github.com/rryam/MusadoraKit"
     ]
 }
 
